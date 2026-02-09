@@ -1,0 +1,10 @@
+LICENCE
+
+Code source : GNU General Public License v3.0 ou ultérieure
+Texte et documentation : Creative Commons CC BY-SA 4.0
+
+Auteurs :
+- (à compléter par chaque membre de l'équipe)
+
+Ce projet est réalisé dans le cadre des Trophées NSI 2026.
+Lycée Étienne Bezout.

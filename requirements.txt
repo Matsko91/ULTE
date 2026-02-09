@@ -1,0 +1,17 @@
+# Dépendances Python pour le projet Trophées NSI
+# Ajoutez ici les bibliothèques utilisées dans votre projet
+
+# Exemple pour une interface graphique :
+# tkinter (inclus dans Python par défaut)
+
+# Exemple pour des jeux :
+# pygame
+
+# Exemple pour le web :
+# flask
+
+# Exemple pour les calculs scientifiques :
+# numpy
+# matplotlib
+
+# Ajoutez vos dépendances ci-dessous :
