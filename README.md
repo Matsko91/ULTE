@@ -1,10 +1,8 @@
-# Nom du projet
-
-Remplacez par le nom de votre projet.
+# ULTE
 
 ## Description
 
-Notre projet est un [type de projet: jeu, application, simulation, etc.] qui permet de [décrire brièvement l'objectif]...
+Notre projet est une boutique en ligne qui permet de vendre des vetements neufs ou recondicionnées .
 
 ## Installation
 
@@ -23,9 +21,9 @@ Expliquer comment utiliser votre application/jeu.
 
 ## Équipe
 
-- [Prénom Nom] : [rôle dans l'équipe]
-- [Prénom Nom] : [rôle dans l'équipe]
-- [Prénom Nom] : [rôle dans l'équipe]
+- [Mathéo Pinto Da Silva] : [rôle dans l'équipe]
+- [Ibrahim Laddi ] : [rôle dans l'équipe]
+
 
 ## Licence
 
